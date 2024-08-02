@@ -1,0 +1,19 @@
+{
+  "name": "mayfly",
+  "description": "蜉蝣之羽，衣裳楚楚。心之忧矣，於我归处。蜉蝣之翼，采采衣服。心之忧矣，於我归息。蜉蝣掘阅，麻衣如雪。心之忧矣，於我归说。",
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.14",
+    "vue": "^3.4.35",
+    "vuepress": "2.0.0-rc.14",
+    "vuepress-theme-hope": "2.0.0-rc.52"
+  }
+}
