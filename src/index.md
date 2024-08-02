@@ -51,7 +51,7 @@ highlights:
 
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
+footer: <a href="https://www.beian.gov.cn/portal/registerSystemInfo"><span>豫ICP备2021024390号</span></a><br/><a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">本网站由<img src="/assets/icon/ypy.png" style="height:25px;transform:translateY(7px);"/>提供CDN加速/云存储服务</a>
 ---
 
 

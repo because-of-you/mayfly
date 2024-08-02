@@ -29,7 +29,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "wfy测试页脚",
+  footer: "<a href=\"http://www.beian.gov.cn/portal/registerSystemInfo\"><span>豫ICP备2021024390号</span></a>",
   copyright: "22332",
   displayFooter: true,
 
