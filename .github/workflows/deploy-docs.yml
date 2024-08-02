@@ -40,7 +40,7 @@ jobs:
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
-          vuepress-vite build src 
+          ./node_modules/.bin/vuepress-vite build src
           > src/.vuepress/dist/.nojekyll
 
       - name: 部署文档
