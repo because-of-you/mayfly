@@ -58,3 +58,6 @@ footer: <a href="https://www.beian.gov.cn/portal/registerSystemInfo"><span>豫IC
 配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。
 
 <Message/>
+
+
+刷新 CDN 测试
