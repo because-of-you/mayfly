@@ -66,6 +66,11 @@ export default hopeTheme({
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
+      // 启用下角标功能
+      sub: true,
+      // 启用上角标
+      sup: true,
+      // 对齐
       align: true,
       // attrs: true,
       // codetabs: true,
