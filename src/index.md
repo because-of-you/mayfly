@@ -23,7 +23,7 @@ actions:
 
 highlights:
   - header: 最爱人间烟火色｜难留岁月几许风
-    description: 这是一个测试描述
+    description: 描述要写点什么好呢？(ο´･д･)??
     #    image: /assets/image/markdown.svg
     #    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     #    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -32,21 +32,21 @@ highlights:
       background-size: initial
     features:
       - title: zookeeper
-        icon: clipboard-check
-        details: zookeeper
-        link: /#
+        icon: /assets/image/component/zookeeper.svg
+        details: 解决问题的能力超强<br/>尤其喜欢拉上它小弟来保护自己
+        link: /component/zookeeper/
+      - title: zookeeper
+        icon: /assets/image/component/zookeeper.svg
+        details: 解决问题的能力超强<br/>尤其喜欢拉上它小弟来保护自己
+        link: /component/zookeeper/
+      - title: zookeeper
+        icon: /assets/image/component/zookeeper.svg
+        details: 解决问题的能力超强<br/>尤其喜欢拉上它小弟来保护自己
+        link: /component/zookeeper/
       - title: kafka
         icon: /assets/image/component/kafka.svg
-        details: kafka
-        link: /#
-      - title: kafka
-        icon: clipboard-check
-        details: kafka
-        link: /#
-      - title: kafka
-        icon: clipboard-check
-        details: kafka
-        link: /#
+        details: 嘘小点声!它家都是24H无休<br/>励志成为稳定的消息搬运工
+        link: /component/kafka/
 
 
 
@@ -55,11 +55,10 @@ copyright: false
 footer: <a href="https://www.beian.gov.cn/portal/registerSystemInfo"><span>豫ICP备2021024390号</span></a><br/><a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">本网站由<img src="/assets/icon/ypy.png" style="height:25px;transform:translateY(7px);"/>提供CDN加速/云存储服务</a>
 ---
 
-
-配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。
 ---
+::: center
 <Message/>
-
+:::
 ---
 
 :::center
@@ -71,7 +70,7 @@ footer: <a href="https://www.beian.gov.cn/portal/registerSystemInfo"><span>豫IC
 
 
 ::: center
-
+<HopeIcon icon="home" color="red" />
 春风送暖入屠苏，
 
 一窗的明媚，
@@ -107,3 +106,5 @@ footer: <a href="https://www.beian.gov.cn/portal/registerSystemInfo"><span>豫IC
 缀满了岁月的枝头，活色生香。
 
 :::
+
+
