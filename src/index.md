@@ -12,18 +12,19 @@ tagline: 蜉蝣之羽，衣裳楚楚。心之忧矣，於我归处。<br/>蜉蝣
 
 actions:
 
-  - text: 使用指南
-    icon: lightbulb
+  - text: 朝生
+    icon: fa-solid fa-seedling fa-bounce
     link: ./demo/
     type: primary
 
-  - text: 文档
+  - text: 暮死
+    icon: fa-solid fa-xmark fa-spin
     link: ./guide/
 
 highlights:
   - header: 最爱人间烟火色｜难留岁月几许风
-    description: 蜉蝣之羽，衣裳楚楚。心之忧矣，於我归处。<br/>蜉蝣之翼，采采衣服。心之忧矣，於我归息。<br/>蜉蝣掘阅，麻衣如雪。心之忧矣，於我归说。
-    image: /assets/image/markdown.svg
+    description: 这是一个测试描述
+    #    image: /assets/image/markdown.svg
     #    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     #    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
@@ -35,7 +36,7 @@ highlights:
         details: zookeeper
         link: /#
       - title: kafka
-        icon: clipboard-check
+        icon: /assets/image/component/kafka.svg
         details: kafka
         link: /#
       - title: kafka
