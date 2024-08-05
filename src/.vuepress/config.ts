@@ -7,8 +7,8 @@ export default defineUserConfig({
     base: "/",
 
     lang: "zh-CN",
-    title: "文档演示",
-    description: "vuepress-theme-hope 的文档演示",
+    title: "蜉蝣",
+    description: "蜉蝣之羽，衣裳楚楚。心之忧矣，於我归处。蜉蝣之翼，采采衣服。心之忧矣，於我归息。蜉蝣掘阅，麻衣如雪。心之忧矣，於我归说。",
 
     theme,
 

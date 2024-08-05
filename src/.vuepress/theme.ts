@@ -13,10 +13,11 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "logo.svg",
 
-  navbarTitle:"werwe",
+  favicon: "logo.svg",
 
+  navbarTitle:"mayfly",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -65,7 +66,7 @@ export default hopeTheme({
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
-      // align: true,
+      align: true,
       // attrs: true,
       // codetabs: true,
       // component: true,
