@@ -32,19 +32,19 @@ highlights:
       background-size: initial
     features:
       - title: zookeeper<sub>0</sub>
-        icon: /assets/image/component/zookeeper.svg
+        icon: iconfont ali-icon-zookeeper
         details: 据说这是一位顶级和事佬<br/>尤其喜欢拉上它小弟
         link: /component/zookeeper/
       - title: zookeeper<sub>1</sub>
-        icon: /assets/image/component/zookeeper.svg
+        icon: iconfont ali-icon-zookeeper
         details: 据说这是一位顶级和事佬<br/>尤其喜欢拉上它小弟
         link: /component/zookeeper/
       - title: zookeeper<sub>2</sub>
-        icon: /assets/image/component/zookeeper.svg
+        icon: iconfont ali-icon-zookeeper
         details: 据说这是一位顶级和事佬<br/>尤其喜欢拉上它小弟
         link: /component/zookeeper/
       - title: kafka
-        icon: /assets/image/component/kafka.svg
+        icon: iconfont ali-icon-apachekafka
         details: 嘘小点声!它家都是24H无休<br/>励志成为最卷的消息搬运工
         link: /component/kafka/
 
@@ -106,5 +106,3 @@ footer: <a href="https://www.beian.gov.cn/portal/registerSystemInfo"><span>豫IC
 缀满了岁月的枝头，活色生香。
 
 :::
-
-
