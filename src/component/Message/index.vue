@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <n-space>
+    <n-space justify="center">
       <n-button>Default</n-button>
       <n-button type="tertiary">
         Tertiary
@@ -21,7 +20,6 @@
         Error
       </n-button>
     </n-space>
-  </div>
 </template>
 
 <script setup>

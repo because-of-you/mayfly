@@ -55,19 +55,7 @@ copyright: false
 footer: <a href="https://www.beian.gov.cn/portal/registerSystemInfo"><span>豫ICP备2021024390号</span></a><br/><a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">本网站由<img src="/assets/icon/ypy.png" style="height:25px;transform:translateY(7px);"/>提供CDN加速/云存储服务</a>
 ---
 
----
-::: center
-<Message/>
-:::
----
-
-:::center
-刷新 CDN 测试
-
-![Static Badge](https://img.shields.io/badge/Now--Scott-Happy_birthday-red)
-
-:::
-
+<EventTimeLine/>
 
 ::: center
 <HopeIcon icon="home" color="red" />
@@ -106,3 +94,5 @@ footer: <a href="https://www.beian.gov.cn/portal/registerSystemInfo"><span>豫IC
 缀满了岁月的枝头，活色生香。
 
 :::
+
+<Message/>
