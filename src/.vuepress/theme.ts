@@ -2,13 +2,14 @@ import {hopeTheme} from "vuepress-theme-hope";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
+import * as assert from "node:assert";
 
 export default hopeTheme({
     hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
     author: {
-        name: "Mr.Hope",
-        url: "https://mister-hope.com",
+        name: "wfy",
+        url: "https://acitrus.cn",
     },
 
     iconAssets: ["fontawesome-with-brands",
@@ -33,15 +34,15 @@ export default hopeTheme({
 
     // 页脚
     footer: "<a href=\"http://www.beian.gov.cn/portal/registerSystemInfo\"><span>豫ICP备2021024390号</span></a>",
-    copyright: "22332",
+    copyright: false,
     displayFooter: true,
 
     // 加密配置
-    encrypt: {
-        config: {
-            "/demo/encrypt.html": ["1234"],
-        },
-    },
+    // encrypt: {
+    //     config: {
+    //         "/demo/encrypt.html": ["1234"],
+    //     },
+    // },
 
     // 多语言配置
     metaLocales: {

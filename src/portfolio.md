@@ -1,11 +1,11 @@
 ---
 home: true
 portfolio: true
-title: 档案主页
-icon: home
+title: 开篇
+icon: book
 welcome: 👋 你好，我是
-name: 江户川柯南
-avatar: https://theme-hope-assets.vuejs.press/hero/conan.png
+name: wfy
+avatar: 相片.png
 
 titles:
   - 天才少年侦探

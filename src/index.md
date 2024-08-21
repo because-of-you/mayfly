@@ -14,16 +14,16 @@ actions:
 
   - text: 朝生
     icon: fa-solid fa-seedling fa-bounce
-    link: ./demo/
+    link: ./zhaosheng/
     type: primary
 
   - text: 暮死
     icon: fa-solid fa-xmark fa-spin
-    link: ./guide/
+    link: ./musi/
 
 highlights:
   - header: 最爱人间烟火色｜难留岁月几许风
-    description: 描述要写点什么好呢？(ο´･д･)??
+    description: 是谁在诉说悲情的故事呢？
     #    image: /assets/image/markdown.svg
     #    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     #    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -55,44 +55,12 @@ copyright: false
 footer: <a href="https://www.beian.gov.cn/portal/registerSystemInfo"><span>豫ICP备2021024390号</span></a><br/><a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">本网站由<img src="/assets/icon/ypy.png" style="height:25px;transform:translateY(7px);"/>提供CDN加速/云存储服务</a>
 ---
 
-<EventTimeLine/>
+[//]: # (<EventTimeLine/>)
 
 ::: center
-<HopeIcon icon="home" color="red" />
-春风送暖入屠苏，^th^
 
-一窗的明媚，
 
-满心的期待，
-
-已在不远处娉婷于陌上诗笺。
-
-转眼，
-
-冬已过，
-
-春已来。
-
-时间如白驹，
-
-岁月如水逝，
-
-冬日的雪韵，梅魂，
-
-似乎还没赏够，品够，悟够，
-
-春天的裙摆
-
-已悄然拂过大地山川与河流。
-
-万物正缓缓苏醒，
-
-冰雪则日渐消融，
-
-睡在轮回的春意，
-
-缀满了岁月的枝头，活色生香。
 
 :::
 
-<Message/>
+[//]: # (<Message/>)
