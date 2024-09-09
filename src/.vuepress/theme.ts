@@ -26,6 +26,8 @@ export default hopeTheme({
 
     docsDir: "src",
 
+    docsRepo: "because-of-you/mayfly",
+
     // 导航栏
     navbar,
 
