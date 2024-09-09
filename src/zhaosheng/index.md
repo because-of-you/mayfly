@@ -14,3 +14,11 @@ tag:
 <HopeIcon icon="fa-solid fa-seedling fa-bounce"/>
 <HopeIcon icon="fa-solid fa-seedling fa-bounce"/>
 :::
+
+:::center
+测试文本
+
+测试
+
+测试
+:::
