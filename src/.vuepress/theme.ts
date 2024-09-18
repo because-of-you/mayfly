@@ -87,7 +87,7 @@ export default hopeTheme({
             // include: true,
             // mark: true,
             // plantuml: true,
-            // spoiler: true,
+            spoiler: true,
             // stylize: [
             //   {
             //     matcher: "Recommended",
