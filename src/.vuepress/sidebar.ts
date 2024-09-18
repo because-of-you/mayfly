@@ -20,9 +20,16 @@ export default sidebar({
     "/zhaosheng/": [
         {
             text: "江湖",
-            icon: "book",
+            icon: "fa-solid fa-stairs",
             prefix: "jianghu/",
             link: "jianghu/",
+            children: "structure",
+        },
+        {
+            text: "有家酒馆",
+            icon: "fa-solid fa-beer-mug-empty",
+            prefix: "jiuguan/",
+            link: "jiuguan/",
             children: "structure",
         },
     ]

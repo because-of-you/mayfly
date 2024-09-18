@@ -1,6 +1,6 @@
 ---
 title: 江湖
-#icon: fa-solid fa-seedling fa-bounce
+icon: fa-solid fa-terminal
 index: false
 category:
   - 江湖
