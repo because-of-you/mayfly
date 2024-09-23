@@ -32,5 +32,12 @@ export default sidebar({
             link: "jiuguan/",
             children: "structure",
         },
+        {
+            text: "bug",
+            // icon: "fa-solid fa-beer-mug-empty",
+            prefix: "bug/",
+            link: "bug/",
+            children: "structure",
+        },
     ]
 });
