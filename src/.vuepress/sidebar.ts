@@ -39,5 +39,12 @@ export default sidebar({
             link: "bug/",
             children: "structure",
         },
+        {
+            text: "未来",
+            icon: "fa-solid fa-beer-mug-empty",
+            prefix: " future/",
+            link: "future/",
+            children: "structure",
+        },
     ]
 });
