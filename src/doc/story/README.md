@@ -1,6 +1,6 @@
 ---
 title: 酒馆
-icon: fa-solid fa-seedling fa-bounce
+icon: tabler:align-box-center-top
 index: false
 categories:
   - /
@@ -12,7 +12,7 @@ dir:
   text: 酒馆
   link: true
   expanded: true
-  icon: "fa-regular fa-font-awesome"
+  icon: tabler:align-box-center-top
 ---
 
 

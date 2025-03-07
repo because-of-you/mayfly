@@ -1,6 +1,6 @@
 ---
 title: 大学
-icon: "fa-regular fa-font-awesome"
+icon: carbon:chart-combo-stacked
 index: false
 categories:
   - /
@@ -12,7 +12,7 @@ dir:
   order: 1
   link: true
   expanded: true
-  icon: "fa-regular fa-font-awesome"
+  icon: carbon:chart-combo-stacked
 ---
 
 

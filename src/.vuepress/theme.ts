@@ -12,7 +12,7 @@ export default hopeTheme({
         url: "https://acitrus.cn",
     },
 
-    iconAssets: ["fontawesome", "fontawesome-with-brands"],
+    iconAssets: "iconify",
 
     logo: "logo.svg",
 
