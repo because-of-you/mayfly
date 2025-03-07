@@ -12,9 +12,7 @@ export default hopeTheme({
         url: "https://acitrus.cn",
     },
 
-    iconAssets: ["fontawesome",
-        "//at.alicdn.com/t/c/font_4644721_8xii6jtp1vs.css"
-    ],
+    iconAssets: ["fontawesome", "fontawesome-with-brands"],
 
     logo: "logo.svg",
 

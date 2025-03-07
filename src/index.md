@@ -14,12 +14,12 @@ actions:
 
   - text: 朝生
     icon: fa-solid fa-seedling fa-bounce
-    link: ./zhaosheng/
+    link: ./doc/
     type: primary
 
   - text: 暮死
     icon: fa-solid fa-xmark fa-spin
-    link: ./musi/
+    link: ./end/
 
 highlights:
   - header: 最爱人间烟火色｜难留岁月几许风
