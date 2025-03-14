@@ -1,6 +1,6 @@
 ---
-title: 朝生
-icon: material-symbols:psychiatry-outline
+title: 旅游
+icon: material-symbols:flight-takeoff-rounded
 index: false
 categories:
   - /
@@ -8,7 +8,11 @@ tag:
   - 序
 
 dir:
-  icon: material-symbols:psychiatry-outline
+  text: 旅游篇
+  order: 1
+  link: true
+  expanded: true
+  icon: material-symbols:flight-takeoff-rounded
 ---
 
 
@@ -21,10 +25,11 @@ dir:
 :::center
 测试文本
 
+https://icon-sets.iconify.design/
+
 测试
 
 测试
 :::
 
-
-我是朝生-序章
+大学

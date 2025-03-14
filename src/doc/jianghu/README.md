@@ -1,6 +1,6 @@
 ---
-title: 朝生
-icon: material-symbols:psychiatry-outline
+title: 江湖
+icon: material-symbols:ramp-left
 index: false
 categories:
   - /
@@ -8,7 +8,11 @@ tag:
   - 序
 
 dir:
-  icon: material-symbols:psychiatry-outline
+  order: 2
+  text: 江湖
+  link: true
+  expanded: true
+  icon: material-symbols:ramp-left
 ---
 
 
@@ -25,6 +29,3 @@ dir:
 
 测试
 :::
-
-
-我是朝生-序章
